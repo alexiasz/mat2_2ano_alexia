@@ -30,5 +30,8 @@
     background-image: linear-gradient(#004584,#004584);
     color: aliceblue;
     display: flex;
-    ju
+}
+
+.escola-div-conteudo{
+    width: 35%;
 }
